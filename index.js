@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Dev: `dana2`","תנו סאב לערוץ"];
 
 
 let currentIndex = 0;
